@@ -38,21 +38,16 @@ By exploring this project, you’ll gain insights into:
 - Using **icons in text fields** to enhance the UI.
 
 ## How It Works
-1.Enter the service amount in the text box.
-2.The app calculates the tip based on the input and updates the UI automatically using Compose’s recomposition.
-3.State is hoisted to the caller to keep the UI components stateless and reusable.
-
+1. Enter the service amount in the text box.
+2. The app calculates the tip based on the input and updates the UI automatically using Compose’s recomposition.
+3. State is hoisted to the caller to keep the UI components stateless and reusable.
 
 ## Video Record
 | Video             |
 |-------------------|
-| [Screen_recording_20250312_164804.webm](https://github.com/user-attachments/assets/c69ca778-7775-4369-817b-5c3247d7e063)
+| <video src="https://github.com/user-attachments/assets/c69ca778-7775-4369-817b-5c3247d7e063" width="600" controls></video> |
 
-
-## ScreenShots
-| ScreenShot 1 | ScreenShots 2 | ScreenShots 3 | ScreenShots 4 |
-|-------------------|-------------------|-------------------|
-| ![Screenshot_20250312_163727](https://github.com/user-attachments/assets/1986466b-9f18-4d44-8050-e574fec6e3b4) | ![Screenshot_20250312_163809](https://github.com/user-attachments/assets/3ac84a0a-d464-441d-9da1-e1f6d3499dbe) | ![Screenshot_20250312_163844](https://github.com/user-attachments/assets/0ef56073-d9bf-47f0-b76d-4a69d4fd6470) |![Screenshot_20250312_165025](https://github.com/user-attachments/assets/4a7636a9-4d7c-433d-ad68-0f5f5983e424)
-
-
-
+## Screenshots
+| Screenshot 1 | Screenshot 2 | Screenshot 3 | Screenshot 4 |
+|--------------|--------------|--------------|--------------|
+| <img src="https://github.com/user-attachments/assets/1986466b-9f18-4d44-8050-e574fec6e3b4" width="200"> | <img src="https://github.com/user-attachments/assets/3ac84a0a-d464-441d-9da1-e1f6d3499dbe" width="200"> | <img src="https://github.com/user-attachments/assets/0ef56073-d9bf-47f0-b76d-4a69d4fd6470" width="200"> | <img src="https://github.com/user-attachments/assets/4a7636a9-4d7c-433d-ad68-0f5f5983e424" width="200"> |
