@@ -46,11 +46,13 @@ By exploring this project, you’ll gain insights into:
 ## Video Record
 | Video             |
 |-------------------|
-| [Screen_recording_20250312_164804.webm](Screen_recording_20250312_164804.webm) |
+| [Screen_recording_20250312_164804.webm](https://github.com/user-attachments/assets/c69ca778-7775-4369-817b-5c3247d7e063)
+
 
 ## ScreenShots
-| ScreenShot 1 | ScreenShots 2 | ScreenShots 3 |
+| ScreenShot 1 | ScreenShots 2 | ScreenShots 3 | ScreenShots 4 |
 |-------------------|-------------------|-------------------|
-| ![Screenshot_20250312_163727](https://github.com/user-attachments/assets/1986466b-9f18-4d44-8050-e574fec6e3b4) | ![Screenshot_20250312_163809](https://github.com/user-attachments/assets/3ac84a0a-d464-441d-9da1-e1f6d3499dbe) | ![Screenshot_20250312_163844](https://github.com/user-attachments/assets/0ef56073-d9bf-47f0-b76d-4a69d4fd6470) |
+| ![Screenshot_20250312_163727](https://github.com/user-attachments/assets/1986466b-9f18-4d44-8050-e574fec6e3b4) | ![Screenshot_20250312_163809](https://github.com/user-attachments/assets/3ac84a0a-d464-441d-9da1-e1f6d3499dbe) | ![Screenshot_20250312_163844](https://github.com/user-attachments/assets/0ef56073-d9bf-47f0-b76d-4a69d4fd6470) |![Screenshot_20250312_165025](https://github.com/user-attachments/assets/4a7636a9-4d7c-433d-ad68-0f5f5983e424)
+
 
 
