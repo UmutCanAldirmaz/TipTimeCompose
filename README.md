@@ -37,8 +37,20 @@ By exploring this project, you’ll gain insights into:
 - Handling **scrolling behavior** when the app is rotated sideways.
 - Using **icons in text fields** to enhance the UI.
 
-## Getting Started
+## How It Works
+1.Enter the service amount in the text box.
+2.The app calculates the tip based on the input and updates the UI automatically using Compose’s recomposition.
+3.State is hoisted to the caller to keep the UI components stateless and reusable.
 
-1. **Clone the Repository**  
-   ```bash
-   git clone [https://github.com/UmutCanAldirmaz/TipTimeCompose.git]
+
+## Video Record
+| Video             |
+|-------------------|
+| [Screen_recording_20250312_164804.webm](Screen_recording_20250312_164804.webm) |
+
+## ScreenShots
+| ScreenShot 1 | ScreenShots 2 | ScreenShots 3 |
+|-------------------|-------------------|-------------------|
+| ![Screenshot_20250312_163727](https://github.com/user-attachments/assets/1986466b-9f18-4d44-8050-e574fec6e3b4) | ![Screenshot_20250312_163809](https://github.com/user-attachments/assets/3ac84a0a-d464-441d-9da1-e1f6d3499dbe) | ![Screenshot_20250312_163844](https://github.com/user-attachments/assets/0ef56073-d9bf-47f0-b76d-4a69d4fd6470) |
+
+
